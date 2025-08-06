@@ -23,15 +23,15 @@ cd AES-Anomaly-Detection-Tool
 ```
 2. Install required packages:
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 ---
 ## 🧪 Usage
 
 ### Threshold-Based Detection
 ```bash
-python Threshold_Detect.py
-python ML_Detect.py
+python3 Threshold_Detect.py
+python3 ML_Detect.py
 ```
 - Output includes detection accuracy, false positives, and false negatives.
 - Results are automatically saved in Excel format inside the `results/` folder.
