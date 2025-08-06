@@ -42,7 +42,6 @@ python ML_Detect.py
 ├── requirements.txt        # Required Python packages  
 ├── results/                # Auto-generated results (Excel, logs)  
 └── README.md               # Project overview and usage guide  
-```
 ---
 
 ## 🎓 Credits
