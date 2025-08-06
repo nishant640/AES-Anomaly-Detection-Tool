@@ -59,7 +59,7 @@ This project is licensed under the MIT License.
 
 ## 📣 Acknowledgment
 
-This tool was developed under the **McNair Junior Fellowship** and **Magellan Scholar Program** at the University of South Carolina.
+This tool was developed under the **McNair Junior Fellowship** and **Magellan Scholar Program** at the University of South Carolina.The authors thank Rye Stahle-Smith for his assistance with hardware testing and experimental setup.
 
 
 
