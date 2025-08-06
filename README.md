@@ -38,7 +38,7 @@ python3 ML_Detect.py
 ## 📂 Repository Structure
 ├── Threshold_Detect.py     
 ├── ML_Detect.py             
-├── requirements.txt         
+├── Requirements.txt         
 ├── results/        
 └── README.md               
 ---
