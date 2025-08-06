@@ -33,8 +33,8 @@ pip3 install -r requirements.txt
 python3 Threshold_Detect.py
 python3 ML_Detect.py
 ```
-- Output includes detection accuracy, false positives, and false negatives.
-- Results are automatically saved in Excel format inside the `results/` folder.
+- Results are saved as `aes_anomaly_report.xlsx` in the same directory.
+- You can manually create a `results/` folder and move the file there if needed.
 ## 📂 Repository Structure
 ├── Threshold_Detect.py     
 ├── ML_Detect.py             
