@@ -37,11 +37,11 @@ python ML_Detect.py
 - Results are automatically saved in Excel format inside the `results/` folder.
 - 
 ## 📂 Repository Structure
-├── Threshold_Detect.py # Statistical threshold-based detection
-├── ML_Detect.py # Random Forest-based ML detection
-├── requirements.txt # Required Python packages
-├── results/ # Auto-generated results (Excel, logs)
-└── README.md # Project overview and usage guide
+├── Threshold_Detect.py     # Statistical threshold-based detection  
+├── ML_Detect.py            # Random Forest-based ML detection  
+├── requirements.txt        # Required Python packages  
+├── results/                # Auto-generated results (Excel, logs)  
+└── README.md               # Project overview and usage guide  
 ```
 ---
 
