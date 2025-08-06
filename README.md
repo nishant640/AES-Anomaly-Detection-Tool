@@ -35,7 +35,6 @@ python ML_Detect.py
 ```
 - Output includes detection accuracy, false positives, and false negatives.
 - Results are automatically saved in Excel format inside the `results/` folder.
-- 
 ## 📂 Repository Structure
 ├── Threshold_Detect.py     
 ├── ML_Detect.py             
