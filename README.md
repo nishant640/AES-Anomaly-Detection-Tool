@@ -20,5 +20,47 @@ This repository contains a lightweight, real-time anomaly detection tool for AES
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/AES-Anomaly-Detection-Tool.git
+   git clone https://github.com/nishant640/AES-Anomaly-Detection-Tool.git
    cd AES-Anomaly-Detection-Tool
+
+   2. Install required packages:
+   ```bash
+   pip install -r requirements.txt
+   ---
+
+## 🧪 Usage
+
+### Threshold-Based Detection
+```bash
+python Threshold_Detect.py
+python ML_Detect.py
+---
+
+## 📂 Repository Structure
+
+├── Threshold_Detect.py # Statistical threshold-based detection
+├── ML_Detect.py # Random Forest-based ML detection
+├── requirements.txt # Required Python packages
+├── results/ # Auto-generated results (Excel, logs)
+└── README.md # Project overview and usage guide
+---
+
+## 🎓 Credits
+
+Developed by **Nishant Chinnasami**  
+Advisor: **Rasha Karakchi (University of South Carolina)**
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 📣 Acknowledgment
+
+This tool was developed under the **McNair Junior Fellowship** and **Magellan Scholar Program** at the University of South Carolina.
+
+Special thanks to **Rye Stahle-Smith** for assistance with hardware testing and experimental validation.
+
