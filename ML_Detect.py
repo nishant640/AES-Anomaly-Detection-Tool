@@ -1,5 +1,3 @@
-import os
-os.makedirs("results", exist_ok=True)
 import pandas as pd
 import random
 import time
